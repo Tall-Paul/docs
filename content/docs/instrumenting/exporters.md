@@ -65,6 +65,7 @@ wide variety of JVM-based applications, for example [Kafka](http://kafka.apache.
    * [Bosch Sensortec BMP/BME exporter](https://github.com/David-Igou/bsbmp-exporter)
    * [Collins exporter](https://github.com/soundcloud/collins_exporter)
    * [Dell Hardware OMSA exporter](https://github.com/galexrt/dellhw_exporter)
+   * [ESPEasy ESP32/8266 firmware builtin exporter](https://github.com/letscontrolit/ESPEasy)
    * [Disk usage exporter](https://github.com/dundee/disk_usage_exporter)
    * [Fortigate exporter](https://github.com/bluecmd/fortigate_exporter)
    * [IBM Z HMC exporter](https://github.com/zhmcclient/zhmc-prometheus-exporter)
